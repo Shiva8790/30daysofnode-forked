@@ -1,4 +1,4 @@
-# 30 days of node - Nodejs tutorial series
+# 30 days of node - Nodejs tutorial series being practiced by shiva
 30 days of node is a code base tutorial series for node.js which deals with providing a practical project based learning experience as well as talking about its conceptual details. 
 
 1.  [Day 1 - The Beginning](https://www.nodejsera.com/nodejs-tutorial-day1-thebeginning.html)
